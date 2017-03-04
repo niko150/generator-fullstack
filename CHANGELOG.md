@@ -4,11 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/), and this project will soon adhere to to [Semantic Versioning](http://semver.org/).
 
-## [WIP]
+## [1.0.0-alpha22] - 2017-03-04
 ### Added
 - Database preset for MongoDB/Mongoose.
 
 ### Changed
+- Rename project and move under my personal domain.
 - Swap out yearly Babel presets for "latest" preset.
 - Rename environment variables per 12-factor app best practices.
 - Remove "todo" messages.

@@ -1,8 +1,8 @@
 {
-  "name": "generator-impero",
-  "version": "1.0.0-alpha21",
-  "description": "Impero's website skeleton generator, courtesy of Yeoman",
-  "homepage": "https://github.com/imperodesign/generator-impero",
+  "name": "generator-fullstack",
+  "version": "1.0.0-alpha22",
+  "description": "Full-stack JS website skeleton generator",
+  "homepage": "https://github.com/samhh/generator-fullstack",
   "author": "Sam A. Horvath-Hunt <samhh.web@gmail.com> (https://samhh.com)",
   "files": [
     "generators",
@@ -14,7 +14,7 @@
   },
   "keywords": [
     "skeleton",
-    "impero",
+    "full-stack",
     "yeoman-generator",
     "es2015",
     "babel",
@@ -42,7 +42,7 @@
     "yeoman-assert": "^2.2.1",
     "yeoman-test": "^1.5.1"
   },
-  "repository": "https://github.com/imperodesign/generator-impero",
-  "bugs": "https://github.com/imperodesign/generator-impero/issues",
+  "repository": "https://github.com/samh/generator-fullstack",
+  "bugs": "https://github.com/samh/generator-fullstack/issues",
   "license": "GPL-3.0"
 }

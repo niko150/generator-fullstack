@@ -1,17 +1,17 @@
-# Impero generator [![NPM version][npm-version-image]][npm-version-url] [![NPM Downloads][npm-downloads-image]][npm-downloads-url] [![Dependency Status][daviddm-image]][daviddm-url] [![License][license-image]][license-url]
+# Full-stack generator [![NPM version][npm-version-image]][npm-version-url] [![NPM Downloads][npm-downloads-image]][npm-downloads-url] [![Dependency Status][daviddm-image]][daviddm-url] [![License][license-image]][license-url]
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and the Impero generator using [npm](https://www.npmjs.com/):
+First, install [Yeoman](http://yeoman.io) and the Full-stack generator using [npm](https://www.npmjs.com/):
 
 ```bash
-npm i -g yo generator-impero
+npm i -g yo generator-fullstack
 ```
 
 Then generate your new project:
 
 ```bash
-yo impero
+yo fullstack
 ```
 
 ## Information
@@ -91,11 +91,11 @@ Following generation you will end up with something like this, dependent upon th
 
 Once generation is complete you should check the generated README for a quick setup guide. The project should immediately run and function as if you'd painstakingly scaffolded it out yourself. If for any reason that doesn't happen, please file an issue detailing the options you selected, the error that was thrown (if any), and any further pertinent information.
 
-[npm-version-image]: https://badge.fury.io/js/generator-impero.svg
-[npm-version-url]: https://npmjs.org/package/generator-impero
-[npm-downloads-image]: https://img.shields.io/npm/dm/generator-impero.svg
-[npm-downloads-url]: https://npmjs.org/package/generator-impero
-[license-image]: https://img.shields.io/npm/l/generator-impero.svg
-[license-url]: https://npmjs.org/package/generator-impero
-[daviddm-image]: https://img.shields.io/david/imperodesign/generator-impero.svg
-[daviddm-url]: https://david-dm.org/imperodesign/generator-impero
+[npm-version-image]: https://badge.fury.io/js/generator-fullstack.svg
+[npm-version-url]: https://npmjs.org/package/generator-fullstack
+[npm-downloads-image]: https://img.shields.io/npm/dm/generator-fullstack.svg
+[npm-downloads-url]: https://npmjs.org/package/generator-fullstack
+[license-image]: https://img.shields.io/npm/l/generator-fullstack.svg
+[license-url]: https://npmjs.org/package/generator-fullstack
+[daviddm-image]: https://img.shields.io/david/samhh/generator-fullstack.svg
+[daviddm-url]: https://david-dm.org/samhh/generator-fullstack
